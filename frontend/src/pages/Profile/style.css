@@ -60,6 +60,7 @@
 
 .profile-container ul li button {
     position: absolute;
+    background-color:  #fff;
     right: 24px;
     top: 24px;
     border: 0;
@@ -77,4 +78,10 @@
 
 .profile-container ul li p + strong {
     margin-top: 32px;
+}
+
+.profile-container ul li p {
+    color: #737380;
+    line-height: 21px;
+    font-size: 16px;
 }
